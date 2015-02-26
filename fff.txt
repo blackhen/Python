@@ -1,0 +1,14 @@
+generalization มี parameter รับค่าเพิ่มขึ้น
+encapsulation ส่วนหนึ่งของโค๊ดเป็น function
+refactoring  เเก้ไขเพื่อใช้งานได้ดีขึ้น
+slice x[2:4]
+string are immutable
+list are mutable
+the in operator 'a' in 'aaa' boolean
+Traversal with a for loop
+list traversal
+augmented assignment statement # total += x
+accumulator #ค่าที่เพิ่มขึ้น reduce#ค่าที่ลดลง
+nasted ;list ซ้อน list
+
+
